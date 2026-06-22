@@ -1,4 +1,4 @@
-# Loan Decision Engine
+# Automated Loan Qualification System
 
 A Java-based console application that evaluates customer eligibility for Personal and Home Loans using predefined banking rules. The system analyzes factors such as age, monthly income, and CIBIL score to generate loan approval decisions.
 
